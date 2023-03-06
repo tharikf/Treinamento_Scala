@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/vamo/target/scala-2.13/linearregression_2.13-1.2.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LinearRegression.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vamo/target/scala-2.13/classes/LinearRegression.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Implementing.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vamo/target/scala-2.13/classes/Implementing.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Implementing$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vamo/target/scala-2.13/classes/Implementing$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
